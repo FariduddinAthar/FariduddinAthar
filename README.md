@@ -14,7 +14,7 @@ Kami menemukan bahwa musik bisa mengurangi efek negatif dari masalah kesehatan m
 ```
 code untuk arduino di vsc : 
 ```
-> ![](images/vsc%20code.png)
+> ![](images/GAS.JPG)
 
 
 ```
