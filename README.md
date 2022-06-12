@@ -6,7 +6,7 @@ Dewasa ini masalah kesehatan mental menjadi kekhawatiran banyak orang. Semakin l
 Jadi, apabila suhu sedang panas maka apa yang bisa dilakukan?
 
 ### III. Solusi
-Solusi yang kami temukan adalah menggunakan sensor DHT11, yang fungsinya untuk mengukur suhu sekitar.
+Solusi yang kami temukan adalah dengan menggunakan sensor DHT11, yang fungsinya untuk mengukur suhu sekitar lingkungan manusia yang dimana nanti sensor akan terkoneksi dengan komputer lalu memutar musik.
 
 ### IV. Analisis
 Kami menemukan bahwa musik bisa mengurangi efek negatif dari masalah kesehatan mental disaat suhu sedang tingginya. Menurut Deborah Serani Psy.D. musik bisa mengurangi efek negatif kesehatan mental dengan cara memutar musik yang memiliki  frekuensi 4-7 Hz maka bisa membuat orang menjadi rileks, membuat mood menjadi lebih baik, dan meningkatkan daya kreativitas. Jadi, disini kami memanfaatkan sensor DHT11 sebagai pendeteksi suhu sekitar lingkungan manusia dengan dua kondisi yaitu suhu normal kisaran 20 - 28 derajat Celsius dan suhu yang panas kisaran lebih dari 29 derajat Celsius. Kami juga menggunakan perangkat pendukung lainnya seperti Mikrokontroler Arduino Uno, Komputer dengan aplikasi Arduino, Python 3, WebBrowser default sebagai pemutar musik yang akan diputar di Music Youtube.
