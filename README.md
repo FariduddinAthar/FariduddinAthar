@@ -15,13 +15,18 @@ Kami menemukan bahwa musik bisa mengurangi efek negatif dari masalah kesehatan m
 ```
 code untuk arduino di vsc : 
 ```
-> <img alt="Code vsc" scr="https://drive.google.com/file/d/1r93Ibbz34qqEEcNdCx_iJL4hep_2rZKK/view?usp=sharing" width="70%" height="50%">
+> [![VSC][VSC-image]]
 
 
-```sh
+```
 code untuk arduino di arduino : 
 ```
+
+> <img alt="Code arduino" scr="https://drive.google.com/file/d/1wiDS_62A3MRPDBugrwq4etHW7AtrrqHy/view?usp=sharing" width="70%" height="50%">
 
 ### V. Referensi
 - Mullins, J. T., & White, C. (2019). Temperature and mental health: Evidence from the spectrum of mental health outcomes. Journal of health economics, 68, 102240.
 - Lin, S. T., Yang, P., Lai, C. Y., Su, Y. Y., Yeh, Y. C., Huang, M. F., & Chen, C. C. (2011). Mental health implications of music: Insight from neuroscientific and clinical studies. Harvard review of psychiatry, 19(1), 34-46.
+
+
+[VSC-image]:https://drive.google.com/file/d/1wiDS_62A3MRPDBugrwq4etHW7AtrrqHy/view?usp=sharing
